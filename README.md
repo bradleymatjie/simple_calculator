@@ -13,6 +13,9 @@ Project is created with:
 * can chain multiple arithmetic operators
 * use keys on the screen only, 
 * keyboard keys wont work
+* AC - clear screen
+* X button - erase single digit
+* (-/+) - negative or positive
 
 
 ## Run Locally
